@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mashnu-kanurkar
 - 👀 I’m interested in Data science, Android
 - 🌱 I’m currently learning Data science, Android, Python, Java
-- 💞️ I’m looking to collaborate on android projects
+- 💞️ I’m looking to collaborate on android and data science projects
 - 📫 How to reach me - mashnu.kanurkar@gmail.com
 
 <!---
